@@ -1,0 +1,10 @@
+$ java euler274DivisibilityMultipliers 0
+Answer: 0
+$ java euler274DivisibilityMultipliers 10
+Answer: 2
+$ java euler274DivisibilityMultipliers 100
+Answer: 501
+$ java euler274DivisibilityMultipliers 500
+Answer: 10483
+$ java euler274DivisibilityMultipliers 1000
+Answer: 39517

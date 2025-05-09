@@ -1,4 +1,4 @@
-# [Euler problem 20](https://projecteuler.net/problem=20)
+# [Euler Problem 20](https://projecteuler.net/problem=20)
 
 ## Task Description:
 

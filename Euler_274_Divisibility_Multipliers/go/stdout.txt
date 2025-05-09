@@ -1,0 +1,10 @@
+$ go run euler-274-divisibility-multipliers.go 0
+Answer: 0
+$ go run euler-274-divisibility-multipliers.go 10
+Answer: 2
+$ go run euler-274-divisibility-multipliers.go 100
+Answer: 501
+$ go run euler-274-divisibility-multipliers.go 500
+Answer: 10483
+$ go run euler-274-divisibility-multipliers.go 1000
+Answer: 39517

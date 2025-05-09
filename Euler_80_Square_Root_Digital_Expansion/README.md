@@ -1,4 +1,4 @@
-# [Euler problem 80](https://projecteuler.net/problem=80)
+# [Euler Problem 80](https://projecteuler.net/problem=80)
 
 ## Task Description:
 
