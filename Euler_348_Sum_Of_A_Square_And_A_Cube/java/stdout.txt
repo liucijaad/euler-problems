@@ -1,0 +1,10 @@
+$ java euler348SumOfASquareAndACube 0
+Answer: 0
+$ java euler348SumOfASquareAndACube 1
+Answer: 5229225
+$ java euler348SumOfASquareAndACube 2
+Answer: 42317298
+$ java euler348SumOfASquareAndACube 3
+Answer: 98517563
+$ java euler348SumOfASquareAndACube 4
+Answer: 207427364

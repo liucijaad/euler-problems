@@ -18,6 +18,7 @@ Find the Sum of f(pq, pr, qr), where p, q and r are prime numbers and p < q < r 
 $ javac euler_278_linear_combinations_of_semiprimes.java
 
 $ java euler_278_linear_combinations_of_semiprimes 5000 > stdout.txt
+
 ### Go
 $ go run euler-278-linear-combinations-of-semiprimes.go 5000 > stdout.txt
 

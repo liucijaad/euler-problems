@@ -1,0 +1,10 @@
+$ go run euler-348-sum-of-a-square-and-a-cube.go 0
+Answer: 0
+$ go run euler-348-sum-of-a-square-and-a-cube.go 1
+Answer: 5229225
+$ go run euler-348-sum-of-a-square-and-a-cube.go 2
+Answer: 42317298
+$ go run euler-348-sum-of-a-square-and-a-cube.go 3
+Answer: 98517563
+$ go run euler-348-sum-of-a-square-and-a-cube.go 4
+Answer: 207427364
