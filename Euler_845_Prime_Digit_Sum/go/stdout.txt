@@ -1,0 +1,14 @@
+$ go run euler-845-prime-digit-sum.go 0
+Answer: 0
+$ go run euler-845-prime-digit-sum.go 10
+Answer: 21
+$ go run euler-845-prime-digit-sum.go 61
+Answer: 157
+$ go run euler-845-prime-digit-sum.go 100
+Answer: 269
+$ go run euler-845-prime-digit-sum.go 1000
+Answer: 3004
+$ go run euler-845-prime-digit-sum.go 10000
+Answer: 34088
+$ go run euler-845-prime-digit-sum.go 100000000
+Answer: 403539364

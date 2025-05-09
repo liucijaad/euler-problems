@@ -1,0 +1,14 @@
+$ java euler845PrimeDigitSum 0
+Answer: 0
+$ java euler845PrimeDigitSum 10
+Answer: 21
+$ java euler845PrimeDigitSum 61
+Answer: 157
+$ java euler845PrimeDigitSum 100
+Answer: 269
+$ java euler845PrimeDigitSum 1000
+Answer: 3004
+$ java euler845PrimeDigitSum 10000
+Answer: 34088
+$ java euler845PrimeDigitSum 100000000
+Answer: 403539364
