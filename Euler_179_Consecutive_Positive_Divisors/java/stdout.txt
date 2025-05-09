@@ -1,0 +1,16 @@
+$ java euler179ConsecutivePositiveDivisors 1
+Answer: 0
+$ java euler179ConsecutivePositiveDivisors 10
+Answer: 1
+$ java euler179ConsecutivePositiveDivisors 100
+Answer: 15
+$ java euler179ConsecutivePositiveDivisors 1000
+Answer: 118
+$ java euler179ConsecutivePositiveDivisors 10000
+Answer: 1119
+$ java euler179ConsecutivePositiveDivisors 100000
+Answer: 10585
+$ java euler179ConsecutivePositiveDivisors 1000000
+Answer: 102093
+$ java euler179ConsecutivePositiveDivisors 10000000
+Answer: 986262

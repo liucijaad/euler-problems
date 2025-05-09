@@ -16,7 +16,7 @@ $ javac euler20FactorialDigitSum.java
 $ java euler20FactorialDigitSum 10 > stdout.txt
 
 ### Go
-$ go run euler-20-factorial-digit-sum.go 10
+$ go run euler-20-factorial-digit-sum.go 10 > stdout.txt
 
 ## Example Standard Input
 10

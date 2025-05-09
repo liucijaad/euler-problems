@@ -14,14 +14,16 @@ it is permitted to mix block sizes. For example, on a row measuring eight units 
 length you could use red (3), grey (1), and red (4).
 
 ## Example Invocation
+### Java
 $ javac euler_114_counting_block_combinations_I.java
 
 $ java euler_114_counting_block_combinations_I 7 > stdout.txt
+
+### Go
+$ go run euler-114-counting-block-combinations-I.go 7 > stdout.txt
 
 ## Example Standard Input
 7
 
 ## Example Standard Output
 Answer: 17
-
-# Explanation

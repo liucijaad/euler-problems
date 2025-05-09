@@ -1,0 +1,16 @@
+$ go run euler-179-consecutive-positive-divisors.go 1
+Answer: 0
+$ go run euler-179-consecutive-positive-divisors.go 10
+Answer: 1
+$ go run euler-179-consecutive-positive-divisors.go 100
+Answer: 15
+$ go run euler-179-consecutive-positive-divisors.go 1000
+Answer: 118
+$ go run euler-179-consecutive-positive-divisors.go 10000
+Answer: 1119
+$ go run euler-179-consecutive-positive-divisors.go 100000
+Answer: 10585
+$ go run euler-179-consecutive-positive-divisors.go 1000000
+Answer: 102093
+$ go run euler-179-consecutive-positive-divisors.go 10000000
+Answer: 986262
