@@ -1,5 +1,3 @@
-package java;
-
 import java.math.BigInteger;
 
 public class euler20FactorialDigitSum {
