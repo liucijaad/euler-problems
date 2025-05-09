@@ -1,0 +1,2 @@
+$ java euler114CountingBlockCombinationsI 7
+Answer: 17
