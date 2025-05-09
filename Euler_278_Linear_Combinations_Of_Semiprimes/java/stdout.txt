@@ -1,0 +1,10 @@
+$ java euler278LinearCombinationsOfSemiprimes 0
+Answer: 0
+$ java euler278LinearCombinationsOfSemiprimes 10
+Answer: 292
+$ java euler278LinearCombinationsOfSemiprimes 100
+Answer: 318227794
+$ java euler278LinearCombinationsOfSemiprimes 1000
+Answer: 142851014336636
+$ java euler278LinearCombinationsOfSemiprimes 5000
+Answer: 1228215747273908452

@@ -1,0 +1,10 @@
+$ go run euler-278-linear-combinations-of-semiprimes.go 0
+Answer: 0
+$ go run euler-278-linear-combinations-of-semiprimes.go 10
+Answer: 292
+$ go run euler-278-linear-combinations-of-semiprimes.go 100
+Answer: 318227794
+$ go run euler-278-linear-combinations-of-semiprimes.go 1000
+Answer: 142851014336636
+$ go run euler-278-linear-combinations-of-semiprimes.go 5000
+Answer: 1228215747273908452

@@ -1,4 +1,4 @@
-[Euler Problem 114](https://projecteuler.net/problem=114)
+# [Euler Problem 114](https://projecteuler.net/problem=114)
 
 ## Task Description:
 
@@ -15,9 +15,9 @@ length you could use red (3), grey (1), and red (4).
 
 ## Example Invocation
 ### Java
-$ javac euler_114_counting_block_combinations_I.java
+$ javac euler114CountingBlockCombinationsI.java
 
-$ java euler_114_counting_block_combinations_I 7 > stdout.txt
+$ java euler114CountingBlockCombinationsI 7 > stdout.txt
 
 ### Go
 $ go run euler-114-counting-block-combinations-I.go 7 > stdout.txt

@@ -27,6 +27,6 @@ $ go run euler-80-square-root-digital-expansion.go 100 > stdout.txt
 ## Example Standard Output
 Answer: 40886
 
-## Explanation
+## Explanation:
 To get 100 digits of square root of i, we multiply i by 10^200. Then we extract first 100 digits and sum them up.
 Repeat this process while i < input. Return sum of root 100 digit sums.

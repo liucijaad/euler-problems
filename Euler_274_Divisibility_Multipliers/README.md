@@ -1,4 +1,4 @@
-[Euler Problem 274](https://projecteuler.net/problem=274)
+# [Euler Problem 274](https://projecteuler.net/problem=274)
 
 ## Task Description:
 
@@ -19,9 +19,9 @@ The sum of the divisibility multipliers for the primes that are coprime to 10 an
 
 ## Example Invocation
 ### Java
-$ javac euler_274_divisibility_multipliers.java
+$ javac euler274DivisibilityMultipliers.java
 
-$ java euler_274_divisibility_multipliers 1000 > stdout.txt
+$ java euler274DivisibilityMultipliers 1000 > stdout.txt
 
 ### Go
 $ go run euler-274-divisibility-multipliers.go 1000 > stdout.txt
