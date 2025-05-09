@@ -1,1 +1,2 @@
+$ go run euler-20-factorial-digit-sum.go 100
 Answer: 648

@@ -1,1 +1,2 @@
+$ java euler20FactorialDigitSum 100
 Answer: 648

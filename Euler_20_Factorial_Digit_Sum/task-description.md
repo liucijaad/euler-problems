@@ -11,12 +11,12 @@ Find the sum of the digits in the number 100!.
 
 ## Example Invocation
 ### Java
-\$ javac euler20FactorialDigitSum.java
+$ javac euler20FactorialDigitSum.java
 
-\$ java euler20FactorialDigitSum 10 > stdout.txt
+$ java euler20FactorialDigitSum 10 > stdout.txt
 
 ### Go
-\$ go run euler-20-factorial-digit-sum.go 10
+$ go run euler-20-factorial-digit-sum.go 10
 
 ## Example Standard Input
 10

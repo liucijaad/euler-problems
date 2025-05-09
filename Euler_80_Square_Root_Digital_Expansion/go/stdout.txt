@@ -1,0 +1,2 @@
+$ go run euler-80-square-root-digital-expansion.go 80
+Answer: 32190

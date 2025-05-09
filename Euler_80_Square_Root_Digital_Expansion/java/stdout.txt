@@ -1,0 +1,2 @@
+$ java euler80SquareRootDigitalExpansion 80
+Answer: 32690

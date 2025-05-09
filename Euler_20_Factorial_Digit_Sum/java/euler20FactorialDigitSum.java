@@ -40,8 +40,8 @@ public class euler20FactorialDigitSum {
         BigInteger acc = BigInteger.ZERO;
         // Loop to get each digit out of the number using modulus operator
         for (BigInteger i = BigInteger.ONE; number.compareTo(BigInteger.ZERO) == 1;
-                i = i.multiply(BigInteger.valueOf(10))) {
-            BigInteger digit = number.mod(i.multiply(BigInteger.valueOf(10))).divide(i);
+                i = i.multiply(BigInteger.TEN)) {
+            BigInteger digit = number.mod(i.multiply(BigInteger.TEN)).divide(i);
             acc = acc.add(digit);
             // Substract the digit we found from number to ensure next digits
             // extracted are correct and to keep loop from running forever.
